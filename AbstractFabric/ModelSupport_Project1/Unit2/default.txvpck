@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodeSet version="1.0">
+  <view uin="qx09in3oqvskmrkmf_v">
+    <property name="$defaultDiagram" value="true" />
+    <property name="$metaclass" value="Package Diagram" />
+    <property name="$name" value="default" />
+    <reference referencedUin="delphi:e_class:src:Project1:Unit2.TAbstractProductB">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="760,440,122,84" />
+      <property name="location_set_by_user" value="True" />
+      <reference referencedUin="delphi:e_method:src:Project1:Unit2.TAbstractProductB.print()" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:Project1:Unit2.TConcreteFactory1">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="420,220,139,131" />
+      <property name="location_set_by_user" value="True" />
+      <reference referencedUin="delphi:l_ast:src:Project1:Unit2.TConcreteFactory1.ProductB1">
+        <property name="sourceAnchor" value="537,351" />
+        <property name="targetAnchor" value="691,560" />
+        <property name="bendpoints" value="" />
+      </reference>
+      <reference referencedUin="delphi:l_ast:src:Project1:Unit2.TConcreteFactory1.ProductA1">
+        <property name="sourceAnchor" value="559,325" />
+        <property name="targetAnchor" value="680,325" />
+        <property name="bendpoints" value="" />
+      </reference>
+      <reference referencedUin="delphi:l_gnt:src:Project1:Unit2.TConcreteFactory1:Unit2.TAbstractFactory">
+        <property name="sourceAnchor" value="429,220" />
+        <property name="targetAnchor" value="372,159" />
+        <property name="bendpoints" value="" />
+      </reference>
+      <reference referencedUin="delphi:e_field:src:Project1:Unit2.TConcreteFactory1.ProductA1" />
+      <reference referencedUin="delphi:e_field:src:Project1:Unit2.TConcreteFactory1.ProductB1" />
+      <reference referencedUin="delphi:e_method:src:Project1:Unit2.TConcreteFactory1.printProductA()" />
+      <reference referencedUin="delphi:e_method:src:Project1:Unit2.TConcreteFactory1.printProductB()" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:Project1:Unit2.TProductB1">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="680,560,86,84" />
+      <property name="location_set_by_user" value="True" />
+      <reference referencedUin="delphi:l_gnt:src:Project1:Unit2.TProductB1:Unit2.TAbstractProductB">
+        <property name="sourceAnchor" value="763,560" />
+        <property name="targetAnchor" value="763,523" />
+        <property name="bendpoints" value="" />
+      </reference>
+      <reference referencedUin="delphi:e_method:src:Project1:Unit2.TProductB1.print()" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:Project1:Unit2.TProductA1">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="680,300,86,84" />
+      <property name="location_set_by_user" value="True" />
+      <reference referencedUin="delphi:l_gnt:src:Project1:Unit2.TProductA1:Unit2.TAbstractProductA">
+        <property name="sourceAnchor" value="763,300" />
+        <property name="targetAnchor" value="763,243" />
+        <property name="bendpoints" value="" />
+      </reference>
+      <reference referencedUin="delphi:e_method:src:Project1:Unit2.TProductA1.print()" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:Project1:Unit2.@unitclass">
+      <property name="$shortcutReference" value="true" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:Project1:Unit2.TConcreteFactory2">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="80,220,139,131" />
+      <property name="location_set_by_user" value="True" />
+      <reference referencedUin="delphi:l_gnt:src:Project1:Unit2.TConcreteFactory2:Unit2.TAbstractFactory">
+        <property name="sourceAnchor" value="214,220" />
+        <property name="targetAnchor" value="276,159" />
+        <property name="bendpoints" value="" />
+      </reference>
+      <reference referencedUin="delphi:l_ast:src:Project1:Unit2.TConcreteFactory2.ProductB2">
+        <property name="sourceAnchor" value="219,313" />
+        <property name="targetAnchor" value="880,584" />
+        <property name="bendpoints" value="" />
+      </reference>
+      <reference referencedUin="delphi:l_ast:src:Project1:Unit2.TConcreteFactory2.ProductA2">
+        <property name="sourceAnchor" value="219,325" />
+        <property name="targetAnchor" value="880,325" />
+        <property name="bendpoints" value="" />
+      </reference>
+      <reference referencedUin="delphi:e_field:src:Project1:Unit2.TConcreteFactory2.ProductA2" />
+      <reference referencedUin="delphi:e_field:src:Project1:Unit2.TConcreteFactory2.ProductB2" />
+      <reference referencedUin="delphi:e_method:src:Project1:Unit2.TConcreteFactory2.printProductA()" />
+      <reference referencedUin="delphi:e_method:src:Project1:Unit2.TConcreteFactory2.printProductB()" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:Project1:Unit2.TAbstractFactory">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="260,60,135,99" />
+      <property name="location_set_by_user" value="True" />
+      <reference referencedUin="delphi:e_method:src:Project1:Unit2.TAbstractFactory.printProductA()" />
+      <reference referencedUin="delphi:e_method:src:Project1:Unit2.TAbstractFactory.printProductB()" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:Project1:Unit2.TAbstractProductA">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="760,160,122,84" />
+      <property name="location_set_by_user" value="True" />
+      <reference referencedUin="delphi:e_method:src:Project1:Unit2.TAbstractProductA.print()" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:Project1:Unit2.TProductB2">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="880,560,86,84" />
+      <property name="location_set_by_user" value="True" />
+      <reference referencedUin="delphi:l_gnt:src:Project1:Unit2.TProductB2:Unit2.TAbstractProductB">
+        <property name="sourceAnchor" value="881,561" />
+        <property name="targetAnchor" value="881,522" />
+        <property name="bendpoints" value="" />
+      </reference>
+      <reference referencedUin="delphi:e_method:src:Project1:Unit2.TProductB2.print()" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:Project1:Unit2.TProductA2">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="880,300,86,84" />
+      <property name="location_set_by_user" value="True" />
+      <reference referencedUin="delphi:l_gnt:src:Project1:Unit2.TProductA2:Unit2.TAbstractProductA">
+        <property name="sourceAnchor" value="881,301" />
+        <property name="targetAnchor" value="881,242" />
+        <property name="bendpoints" value="" />
+      </reference>
+      <reference referencedUin="delphi:e_method:src:Project1:Unit2.TProductA2.print()" />
+    </reference>
+  </view>
+</nodeSet>

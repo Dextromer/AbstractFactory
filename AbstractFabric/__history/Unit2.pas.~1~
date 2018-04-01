@@ -1,0 +1,44 @@
+unit Unit2;
+
+interface
+
+//uses
+
+type
+  TAbstractFactory = class
+
+  end;
+  TConcreteFactory1 = class(TAbstractFactory)
+
+  end;
+  TConcreteFactory2 = class(TAbstractFactory)
+
+  end;
+  TAbstractProductA = class
+  public
+    function print: string; virtual; abstract;
+  end;
+  TProductA1 = class(TAbstractProductA)
+  public
+    function print: string; override;
+  end;
+  TProductA2 = class(TAbstractProductA)
+  public
+    function print: string; override;
+  end;
+  TAbstractProductB = class
+  public
+    function print: string; virtual; abstract;
+  end;
+  TProductB1 = class(TAbstractProductB)
+  public
+    function print: string; override;
+  end;
+  TProductB2 = class(TAbstractProductB)
+  public
+    function print: string; override;
+  end;
+
+implementation
+
+end.

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.078,=C:\Users\студ.K201-06\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.870,=O:\63-1\Технология разработки ПО\Лепший\Абстрактная фабрика\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.343,O:\63-1\Технология разработки ПО\Лепший\Абстрактная фабрика\Unit1.dfm=C:\Users\студ.K201-06\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.343,O:\63-1\Технология разработки ПО\Лепший\Абстрактная фабрика\Unit1.pas=C:\Users\студ.K201-06\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.118,O:\63-1\Технология разработки ПО\Лепший\Абстрактная фабрика\Project1.dproj=C:\Users\студ.K201-06\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018.04.01 18:36:23.018,=D:\Учёба\Технология разработки программного обеспечения\Абстрактная фабрика\ModelSupport_Project1\default.txaPackage</Transaction>
+    <Transaction>2018.04.01 18:36:24.454,=D:\Учёба\Технология разработки программного обеспечения\Абстрактная фабрика\ModelSupport_Project1\default.txvpck</Transaction>
+    <Transaction>2018.04.01 18:36:25.363,=D:\Учёба\Технология разработки программного обеспечения\Абстрактная фабрика\ModelSupport_Project1\Project1\default.txvpck</Transaction>
+    <Transaction>2018.04.01 18:36:25.680,=D:\Учёба\Технология разработки программного обеспечения\Абстрактная фабрика\ModelSupport_Project1\Project1\default.txaPackage</Transaction>
+    <Transaction>2018.04.01 18:36:27.119,=D:\Учёба\Технология разработки программного обеспечения\Абстрактная фабрика\ModelSupport_Project1\Unit1\default.txvpck</Transaction>
+    <Transaction>2018.04.01 18:36:27.668,=D:\Учёба\Технология разработки программного обеспечения\Абстрактная фабрика\ModelSupport_Project1\Unit1\default.txaPackage</Transaction>
+    <Transaction>2018.04.01 18:36:28.777,=D:\Учёба\Технология разработки программного обеспечения\Абстрактная фабрика\ModelSupport_Project1\Unit2\default.txvpck</Transaction>
+    <Transaction>2018.04.01 18:36:28.992,=D:\Учёба\Технология разработки программного обеспечения\Абстрактная фабрика\ModelSupport_Project1\Unit2\default.txaPackage</Transaction>
+  </Transactions>
+</BorlandProject>
